@@ -512,4 +512,15 @@ fill: #f4f4fd;
     border-radius: 4px;
     }
     /* =========== /Modal window styles =========== */
+.modal-close-btn {
+        border-radius: 100%;
+        color: #2e2f42;
+        border: 1px solid #000;
+        stroke: #000000;
+        opacity: 0.1;
+    }
+.modal-close-btn-icon:hover,
+.modal-close-btn-icon:focus {
+stroke: #fff ;
+}
     
