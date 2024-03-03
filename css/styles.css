@@ -488,6 +488,16 @@ fill: #f4f4fd;
 .subscribe-footer {
 margin-left: 80px;
 }
+.sbscr-title {
+display: block;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #fff;
+margin-bottom: 16px;
+}
 .sbscr-input-btn {
 display: flex;
 gap: 24px;
@@ -659,7 +669,7 @@ color: #8e8f99;
 margin-bottom: 4px;
 }
 .contact-form-field-wrapper {
-margin-bottom: 16px;
+margin-bottom: 8px;
 }
 .contact-form-input-wrapper {
 position: relative;
@@ -695,6 +705,7 @@ border-color: #4d5ae5;
 outline: transparent;
 }
 .contact-form-checkbox-wrapper {
+margin-top: 8px;
 margin-bottom: 24px;
 }
 .contact-form-checkbox-label {
