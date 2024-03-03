@@ -500,11 +500,11 @@ margin-bottom: 16px;
 }
 .sbscr-input-btn {
 display: flex;
+gap: 24px;
 }
 .sbscr-input {
 min-width: 264px;
 height: 40px;
-margin-right: 24px;
 outline: transparent;
 border: 1px solid #fff;
 border-radius: 4px;
