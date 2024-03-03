@@ -671,6 +671,10 @@ margin-bottom: 4px;
 }
 .contact-form-input-wrapper {
 position: relative;
+margin-bottom: 8px;
+}
+.contact-form-field-wrapper .comment-field {
+margin-bottom: 16px;
 }
 .contact-form-field-icon {
 position: absolute;
