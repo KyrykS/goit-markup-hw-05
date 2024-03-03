@@ -640,6 +640,7 @@ margin-right: auto;
 max-width: 360px;
 margin-left: auto;
 margin-right: auto;
+margin-bottom: 16px;
 }
 .contact-form-input {
 width: 100%;
@@ -667,9 +668,6 @@ line-height: 1.17;
 letter-spacing: 0.04em;
 color: #8e8f99;
 margin-bottom: 4px;
-}
-.contact-form-field-wrapper {
-margin-bottom: 8px;
 }
 .contact-form-input-wrapper {
 position: relative;
@@ -705,7 +703,6 @@ border-color: #4d5ae5;
 outline: transparent;
 }
 .contact-form-checkbox-wrapper {
-margin-top: 8px;
 margin-bottom: 24px;
 }
 .contact-form-checkbox-label {
